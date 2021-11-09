@@ -8,4 +8,4 @@ while A:
  if a < min:
   min = a
 
-print(a)
+print(min)
